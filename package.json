@@ -1,0 +1,20 @@
+{
+  "name": "skia-canvas-with-twemoji-and-discord-emoji",
+  "version": "1.0.0",
+  "description": "A fork of node-canvas-with-twemoji for skia-canvas with Discord emoji support.",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "flazepe",
+  "dependencies": {
+    "skia-canvas": "^0.9.23",
+    "twemoji": "^13.0.1"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flazepe/skia-canvas-with-twemoji-and-discord-emoji.git"
+  }
+}

@@ -9,7 +9,6 @@
   },
   "author": "flazepe",
   "dependencies": {
-    "skia-canvas": "^0.9.23",
     "twemoji": "^13.0.1"
   },
   "license": "MIT",

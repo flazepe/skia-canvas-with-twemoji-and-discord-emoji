@@ -1,6 +1,6 @@
 {
   "name": "skia-canvas-with-twemoji-and-discord-emoji",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A fork of node-canvas-with-twemoji for skia-canvas with Discord emoji support.",
   "main": "src/index.js",
   "types": "src/index.d.ts",
